@@ -41,9 +41,9 @@ Error generating stack: `+o.message+`
             border-outline border-4 bg-red rounded-full w-12 h-12 min-w-12 hover:border-red
             transition ease-in hover:scale-125 hover:cursor-pointer
             `,onClick:()=>e.handleColorChange("red")}),S.jsx("div",{className:`
-            border-outline border-4 bg-green rounded-full w-12 h-12 min-w-12 hover:border-green
+            border-outline border-4 bg-rebeccapurple rounded-full w-12 h-12 min-w-12 hover:border-green
             transition ease-in hover:scale-125 hover:cursor-pointer
-            `,onClick:()=>e.handleColorChange("green")}),S.jsx("div",{className:`
+            `,onClick:()=>e.handleColorChange("rebeccapurple")}),S.jsx("div",{className:`
             border-outline border-4 bg-blue rounded-full w-12 h-12 min-w-12 hover:border-blue
             transition ease-in hover:scale-125 hover:cursor-pointer
             `,onClick:()=>e.handleColorChange("blue")}),S.jsx("div",{className:`
